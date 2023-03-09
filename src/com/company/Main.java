@@ -30,6 +30,9 @@ public class Main {
         stack.pop();
         stack.diplay();
 
+        Patterns patterns=new Patterns();
+        patterns.setLines(10);
+        patterns.rectangle();
 
 
     }
